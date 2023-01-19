@@ -1,0 +1,11 @@
+fi\tuni\prog3\sisu\DegreeModule.class
+fi\tuni\prog3\sisu\Sisu.class
+fi\tuni\prog3\sisu\User.class
+module-info.class
+fi\tuni\prog3\sisu\StudyGrouping.class
+fi\tuni\prog3\sisu\DegreeProgramme.class
+fi\tuni\prog3\sisu\ReadJsonToStudent.class
+fi\tuni\prog3\sisu\ReadWriteToJson.class
+fi\tuni\prog3\sisu\SisuAPI.class
+fi\tuni\prog3\sisu\Course.class
+fi\tuni\prog3\sisu\Student.class
